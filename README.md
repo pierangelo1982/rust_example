@@ -29,7 +29,8 @@ documentation?
 > cargo doc --open
 
 ### good rules
-4 spazi, non tab
+- 4 spazi, non tab
+- constant vanno scritte in maiuscolo, con underscore tra le due parole nel caso.(const MAX_POINTS: u32 = 100_000;)
 
 
 ### appunti
@@ -57,3 +58,4 @@ let foo = 5; // immutable
 let mut bar = 5; // mutable
 ```
 
+Rust’s naming convention for constants is to use all uppercase with underscores between words, and underscores can be inserted in numeric literals to improve readability
