@@ -1,0 +1,11 @@
+/home/pierangelo/lavori/personali/rust_sample/guessing_game/target/rls/debug/deps/getrandom-620d55fb196094e3.rmeta: /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/lib.rs /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error.rs /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util.rs /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/use_file.rs /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util_libc.rs /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error_impls.rs /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/linux_android.rs
+
+/home/pierangelo/lavori/personali/rust_sample/guessing_game/target/rls/debug/deps/getrandom-620d55fb196094e3.d: /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/lib.rs /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error.rs /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util.rs /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/use_file.rs /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util_libc.rs /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error_impls.rs /home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/linux_android.rs
+
+/home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/lib.rs:
+/home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error.rs:
+/home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util.rs:
+/home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/use_file.rs:
+/home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util_libc.rs:
+/home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error_impls.rs:
+/home/pierangelo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/linux_android.rs:

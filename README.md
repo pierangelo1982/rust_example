@@ -25,6 +25,9 @@ When your project is finally ready for release, you can use cargo build --releas
 > ./target/release/hello_cargo
 
 
+documentation?
+> cargo doc --open
+
 ### good rules
 4 spazi, non tab
 
@@ -41,3 +44,16 @@ programmi semplici compili con rustc, per più complessi con cargo
 We can build a project using cargo build or cargo check.
 We can build and run a project in one step using cargo run.
 Instead of saving the result of the build in the same directory as our code, Cargo stores it in the target/debug directory.
+
+std::io
+- std = standard library
+- io = input output
+
+In Rust, variables are immutable by default.
+mut before the variable name to make a variable mutable:
+
+```
+let foo = 5; // immutable
+let mut bar = 5; // mutable
+```
+
